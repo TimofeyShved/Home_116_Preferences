@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE preferences SYSTEM "http://java.sun.com/dtd/preferences.dtd">
+<preferences EXTERNAL_XML_VERSION="1.0">
+  <root type="user">
+    <map>
+      <entry key="JetBrains.UserIdOnMachine" value="a6117d93-0042-43b5-9bc7-ca5b0402b8ba"/>
+      <entry key="db.host" value="http://localhost:8888/mydb"/>
+      <entry key="db.login" value="root"/>
+      <entry key="db.password" value="dbroot"/>
+    </map>
+    <node name="com">
+      <map/>
+      <node name="oracle">
+        <map/>
+        <node name="javafx">
+          <map/>
+          <node name="scenebuilder">
+            <map/>
+            <node name="JVMUserOptions">
+              <map>
+                <entry key="-Djavafx.autoproxy.disable=" value="true"/>
+                <entry key="-Xmx" value="999m"/>
+                <entry key="-Djava.util.logging.config.file=" value="$APPDIR/app/logging.properties"/>
+              </map>
+            </node>
+            <node name="app">
+              <map/>
+              <node name="preferences">
+                <map/>
+                <node name="SB_2.0">
+                  <map>
+                    <entry key="LAST_SENT_TRACKING_INFO_DATE" value="2021-04-12"/>
+                    <entry key="IMPORTED_GLUON_JARS" value=""/>
+                    <entry key="REGISTRATION_HASH" value="aec1b6f2ade83b9ac3ace55b5051e5c9541dffeb"/>
+                    <entry key="RECENT_ITEMS" value="C:\Users\Programmer\IdeaProjects\OMGUPS_Sem_6_2\src\sample\mainWin.fxml;C:\Users\Programmer\IdeaProjects\OMGUPS_Sem_6_1\src\sample\mainWin.fxml;C:\Users\Programmer\IdeaProjects\OMGUPS_Sem_6_KR_1\src\sample\addBill.fxml;C:\Users\Programmer\IdeaProjects\OMGUPS_Sem_6_KR_1\src\sample\sample.fxml;C:\Users\Programmer\IdeaProjects\Home_078_JavaFX_diagram\src\sample\sample.fxml;"/>
+                    <entry key="HIERARCHY_DISPLAY_OPTION" value="INFO"/>
+                    <entry key="UPDATE_DIALOG_DATE" value="2021-04-19"/>
+                  </map>
+                  <node name="ARTIFACTS">
+                    <map/>
+                  </node>
+                  <node name="DOCUMENTS">
+                    <map/>
+                    <node name="1_mainWin.fxml">
+                      <map>
+                        <entry key="path" value="C:\Users\Programmer\IdeaProjects\OMGUPS_Sem_6_2\src\sample\mainWin.fxml"/>
+                        <entry key="X" value="-7.199999809265137"/>
+                        <entry key="Y" value="-7.199999809265137"/>
+                        <entry key="height" value="838.4000244140625"/>
+                        <entry key="width" value="1550.4000244140625"/>
+                        <entry key="bottomVisible" value="false"/>
+                        <entry key="leftVisible" value="true"/>
+                        <entry key="rightVisible" value="true"/>
+                        <entry key="libraryVisible" value="true"/>
+                        <entry key="documentVisible" value="true"/>
+                        <entry key="inspectorSectionId" value="CODE"/>
+                        <entry key="leftDividerHPos" value="0.1826171875"/>
+                        <entry key="rightDividerHPos" value="0.8173828125"/>
+                        <entry key="bottomDividerVPos" value="-1.0"/>
+                        <entry key="leftDividerVPos" value="0.2976497933884298"/>
+                        <entry key="sceneStyleSheets" value=""/>
+                        <entry key="theme" value="MODENA"/>
+                      </map>
+                    </node>
+                    <node name="1_sample.fxml">
+                      <map>
+                        <entry key="path" value="C:\Users\Programmer\IdeaProjects\OMGUPS_Sem_6_KR_1\src\sample\sample.fxml"/>
+                        <entry key="X" value="-7.199999809265137"/>
+                        <entry key="Y" value="-7.199999809265137"/>
+                        <entry key="height" value="838.4000244140625"/>
+                        <entry key="width" value="1550.4000244140625"/>
+                        <entry key="bottomVisible" value="false"/>
+                        <entry key="leftVisible" value="true"/>
+                        <entry key="rightVisible" value="true"/>
+                        <entry key="libraryVisible" value="true"/>
+                        <entry key="documentVisible" value="true"/>
+                        <entry key="inspectorSectionId" value="PROPERTIES"/>
+                        <entry key="leftDividerHPos" value="0.1826171875"/>
+                        <entry key="rightDividerHPos" value="0.8173828125"/>
+                        <entry key="bottomDividerVPos" value="-1.0"/>
+                        <entry key="leftDividerVPos" value="0.4990960743801653"/>
+                        <entry key="sceneStyleSheets" value=""/>
+                        <entry key="theme" value="MODENA"/>
+                      </map>
+                    </node>
+                    <node name="addBill.fxml">
+                      <map>
+                        <entry key="path" value="C:\Users\Programmer\IdeaProjects\OMGUPS_Sem_6_KR_1\src\sample\addBill.fxml"/>
+                        <entry key="X" value="-7.199999809265137"/>
+                        <entry key="Y" value="-7.199999809265137"/>
+                        <entry key="height" value="838.4000244140625"/>
+                        <entry key="width" value="1550.4000244140625"/>
+                        <entry key="bottomVisible" value="false"/>
+                        <entry key="leftVisible" value="true"/>
+                        <entry key="rightVisible" value="true"/>
+                        <entry key="libraryVisible" value="true"/>
+                        <entry key="documentVisible" value="true"/>
+                        <entry key="inspectorSectionId" value="PROPERTIES"/>
+                        <entry key="leftDividerHPos" value="0.1826171875"/>
+                        <entry key="rightDividerHPos" value="0.8173828125"/>
+                        <entry key="bottomDividerVPos" value="-1.0"/>
+                        <entry key="leftDividerVPos" value="0.4990960743801653"/>
+                        <entry key="sceneStyleSheets" value=""/>
+                        <entry key="theme" value="MODENA"/>
+                      </map>
+                    </node>
+                    <node name="mainWin.fxml">
+                      <map>
+                        <entry key="path" value="C:\Users\Programmer\IdeaProjects\OMGUPS_Sem_6_1\src\sample\mainWin.fxml"/>
+                        <entry key="X" value="-7.199999809265137"/>
+                        <entry key="Y" value="-7.199999809265137"/>
+                        <entry key="height" value="838.4000244140625"/>
+                        <entry key="width" value="1550.4000244140625"/>
+                        <entry key="bottomVisible" value="false"/>
+                        <entry key="leftVisible" value="true"/>
+                        <entry key="rightVisible" value="true"/>
+                        <entry key="libraryVisible" value="true"/>
+                        <entry key="documentVisible" value="true"/>
+                        <entry key="inspectorSectionId" value="PROPERTIES"/>
+                        <entry key="leftDividerHPos" value="0.1826171875"/>
+                        <entry key="rightDividerHPos" value="0.8173828125"/>
+                        <entry key="bottomDividerVPos" value="-1.0"/>
+                        <entry key="leftDividerVPos" value="0.4990960743801653"/>
+                        <entry key="sceneStyleSheets" value=""/>
+                        <entry key="theme" value="MODENA"/>
+                      </map>
+                    </node>
+                    <node name="sample.fxml">
+                      <map>
+                        <entry key="path" value="C:\Users\Programmer\IdeaProjects\Home_078_JavaFX_diagram\src\sample\sample.fxml"/>
+                        <entry key="X" value="-9.0"/>
+                        <entry key="Y" value="-9.0"/>
+                        <entry key="height" value="1048.0"/>
+                        <entry key="width" value="1938.0"/>
+                        <entry key="bottomVisible" value="false"/>
+                        <entry key="leftVisible" value="true"/>
+                        <entry key="rightVisible" value="true"/>
+                        <entry key="libraryVisible" value="true"/>
+                        <entry key="documentVisible" value="true"/>
+                        <entry key="inspectorSectionId" value="PROPERTIES"/>
+                        <entry key="leftDividerHPos" value="0.14609375"/>
+                        <entry key="rightDividerHPos" value="0.85390625"/>
+                        <entry key="bottomDividerVPos" value="-1.0"/>
+                        <entry key="leftDividerVPos" value="0.3957688338493292"/>
+                        <entry key="sceneStyleSheets" value=""/>
+                      </map>
+                    </node>
+                  </node>
+                  <node name="REPOSITORIES">
+                    <map/>
+                  </node>
+                </node>
+              </node>
+            </node>
+          </node>
+        </node>
+      </node>
+    </node>
+    <node name="java">
+      <map/>
+      <node name="util">
+        <map/>
+        <node name="prefs">
+          <map/>
+        </node>
+      </node>
+    </node>
+    <node name="jetbrains">
+      <map>
+        <entry key="user_id_on_machine" value="a6117d93-0042-43b5-9bc7-ca5b0402b8ba"/>
+        <entry key="device_id" value="140919111f5de80-6a8e-4c7c-aefe-17d8f4ece3af"/>
+        <entry key="feature_usage_event_log_salt" value="fzWkK8WgutCi1CrsXtJ8S2xNWjFItR7hEtGGQdqGZiw="/>
+      </map>
+      <node name="privacy_policy">
+        <map>
+          <entry key="accepted_version" value="2.1"/>
+        </map>
+      </node>
+    </node>
+    <node name="jformdesigner">
+      <map/>
+    </node>
+    <node name="myPack">
+      <map/>
+    </node>
+    <node name="net">
+      <map/>
+      <node name="sf">
+        <map/>
+        <node name="launch4j">
+          <map/>
+          <node name="formimpl">
+            <map>
+              <entry key="currentDir-ConfigFormImpl" value="C:\Users\Programmer\IdeaProjects\OMGUPS_Sem_6_KR_1\out\artifacts\OMGUPS_Sem_6_KR_1_jar"/>
+              <entry key="currentDir-MainFrame" value="C:\Users\Programmer\IdeaProjects\OMGUPS_Sem_6_KR_1"/>
+            </map>
+          </node>
+        </node>
+      </node>
+    </node>
+  </root>
+</preferences>
